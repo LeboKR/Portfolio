@@ -1,1 +1,8 @@
-Testing token functionality
+1) What does API stand for?
+-Application Programming Interface
+
+2)How would you describe an API in your own words?
+-It is like a waiter in a resturuant or a messenger between two parties like a dove in the medieval ages
+
+3)Can you think of an example of an API you've used?
+-Not exactly an API but the get and set functions of OOP objects sort of act like APIs
